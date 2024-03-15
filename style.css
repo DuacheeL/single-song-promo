@@ -1,5 +1,13 @@
+/* Open Props */
+@import "https://unpkg.com/open-props";
+
+
+
 body {
-    background: gray;
+    background: var(--gradient-15);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
 }
 
 /* CSS Variables */
@@ -32,7 +40,7 @@ main {
     max-width: 60em;
     margin-inline: auto;
 
-    background: lightgray;
+    /* background: red; */
 }
 
 main img {
