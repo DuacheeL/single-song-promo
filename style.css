@@ -13,17 +13,17 @@ body {
 /* CSS Variables */
 :root {
     /* main UI color */
-    --plyr-color-main: darkgray;
+    --plyr-color-main: #EA6D72;
     /* audio controls background */
-    --plyr-audio-controls-background: black;
+    --plyr-audio-controls-background:#FAEBE4;
     /* audio controls color */
-    --plyr-audio-control-color: white;
+    --plyr-audio-control-color: #62688C;
 
-    --plyr-audio-control-color-hover:  black;
+    --plyr-audio-control-color-hover:#FAEBE4;
 
-    --plyr-audio-progress-buffered-background:  black;
+    --plyr-audio-progress-buffered-background: #D9D9D9;
 
-    --plyr-audio-range-track-background: white;
+    --plyr-audio-range-track-background: #D9D9D9;
     
     --plyr-font-family: sans-serif;
     --plyr-font-size-time: 16px;
