@@ -1,6 +1,9 @@
 /* Open Props */
 @import "https://unpkg.com/open-props";
 
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap');
+
 
 
 body {
@@ -23,7 +26,7 @@ body {
 
     --plyr-audio-progress-buffered-background: #D9D9D9;
 
-    --plyr-audio-range-track-background: #D9D9D9;
+    --plyr-audio-range-track-background: #FFAA80;
     
     --plyr-font-family: sans-serif;
     --plyr-font-size-time: 16px;
@@ -49,11 +52,39 @@ main img {
     display: block;
 }
 
+main h1 {
+	font-family: "Poppins", sans-serif;
+	font-size: 10em;
+	text-align: center;
+	color: #ffffff6b;
+	text-transform: uppercase;
+	
+	margin: 20px 0px 0px 0px;
+	padding: 20px;
+	line-height: 80px;
+}
+
+main h2 {
+ font-family: "Poppins", sans-serif;
+	text-align: center;
+	text-transform: uppercase;
+	color: white;
+	
+	line-height: 10px;
+	margin: 10px 0px 80px 0px;
+	
+}
+
 article {
     /* flow content horizontally */
     display: flex;
     gap: 1em;
     justify-content: center;
+}
+
+section p {
+	font-family: "Poppins", sans-serif;
+	color: #62688C;
 }
 
 footer {
