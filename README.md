@@ -13,4 +13,12 @@
 * What's old is new agai. This is the [modern mixtape](https://en.wikipedia.org/wiki/Mixtape) or a compilation of curated songs. 
 
 ## Citations
-* Your citations go here
+* [Weston Estate - Sixty Lyrics](https://www.musixmatch.com/lyrics/Weston-Estate/Sixty)
+* [Sixty on Youtube](https://www.youtube.com/watch?v=Jxdtfgiw200)
+* [Wallpaper](https://www.youtube.com/watch?v=Jxdtfgiw200)
+
+* [Google Fonts - Poppins](https://fonts.google.com/specimen/Poppins?query=poppin)
+* [OpenProps](https://open-props.style/)
+* [Plyr](https://plyr.io/)
+
+
