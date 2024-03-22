@@ -13,9 +13,10 @@
 * What's old is new agai. This is the [modern mixtape](https://en.wikipedia.org/wiki/Mixtape) or a compilation of curated songs. 
 
 ## Citations
-* [Weston Estate - Sixty Lyrics](https://www.musixmatch.com/lyrics/Weston-Estate/Sixty)
-* [Sixty on Youtube](https://www.youtube.com/watch?v=Jxdtfgiw200)
-* [Wallpaper](https://www.youtube.com/watch?v=Jxdtfgiw200)
+* [Review: Weston Estate Has Emotional Journey With Love on ‘Maggie Valley’ EP](https://medium.com/@amayag622/review-weston-estate-has-emotional-journey-with-love-on-maggie-valley-ep-d3ebec3a3d26)
+* [Weston Estate - Sixty Lyrics](https://genius.com/Weston-estate-sixty-lyrics)
+* ["Sixty" on Youtube](https://www.youtube.com/watch?v=Jxdtfgiw200)
+* [Banner](https://www.youtube.com/watch?v=Jxdtfgiw200)
 
 * [Google Fonts - Poppins](https://fonts.google.com/specimen/Poppins?query=poppin)
 * [OpenProps](https://open-props.style/)
