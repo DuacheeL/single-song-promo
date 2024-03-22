@@ -53,6 +53,7 @@ main img {
     /* Fit image to container */
     max-width: 100%;
     display: block;
+
 }
 
 main h1 {

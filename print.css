@@ -1,7 +1,7 @@
 @media print {
 
     /* hide */
-    audio {
+    .plyr {
         display: none;
     }
     
@@ -14,6 +14,26 @@
     @page {
         margin: 1in;
     }
+
+    h1, h2 {
+    font-size: 7rem;
+    line-height: 40px;
+    
+    }
+    
+   article {
+    font-size: 5rem;
+    line-height: 60px;
+   }
+   
+   .form {
+    margin-top: 150px;
+   }
+
+   footer {
+    font-size: 4rem;
+    text-decoration: none;
+   }
 
 }
 
