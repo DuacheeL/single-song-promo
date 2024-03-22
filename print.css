@@ -15,25 +15,9 @@
         margin: 1in;
     }
 
-    h1, h2 {
-    font-size: 7rem;
-    line-height: 40px;
-    
+    img {
+        max-width: 100%;
     }
-    
-   article {
-    font-size: 5rem;
-    line-height: 60px;
-   }
-   
-   .form {
-    margin-top: 150px;
-   }
-
-   footer {
-    font-size: 4rem;
-    text-decoration: none;
-   }
 
 }
 
